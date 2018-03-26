@@ -8,6 +8,7 @@
 <a href="https://scrutinizer-ci.com/g/overtrue/socialite/?branch=master"><img src="https://scrutinizer-ci.com/g/overtrue/socialite/badges/coverage.png?b=master" alt="Code Coverage"></a>
 <a href="https://packagist.org/packages/overtrue/socialite"><img src="https://poser.pugx.org/overtrue/socialite/downloads" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/overtrue/socialite"><img src="https://poser.pugx.org/overtrue/socialite/license" alt="License"></a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fovertrue%2Fsocialite?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fovertrue%2Fsocialite.svg?type=shield"/></a>
 </p>
 
 
@@ -254,3 +255,6 @@ Enjoy it! :heart:
 # License
 
 MIT
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fovertrue%2Fsocialite.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fovertrue%2Fsocialite?ref=badge_large)
